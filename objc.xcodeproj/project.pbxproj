@@ -222,6 +222,7 @@
 /* Begin PBXFileReference section */
 		0466411225A4991B002440A8 /* KCObjcBuild */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = KCObjcBuild; sourceTree = BUILT_PRODUCTS_DIR; };
 		0466411425A4991B002440A8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1B864ABD26C0328E005EBEB6 /* objc-probes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "objc-probes.h"; path = "runtime/objc-probes.h"; sourceTree = "<group>"; };
 		393CEABF0DC69E3E000B69DE /* objc-references.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = "objc-references.mm"; path = "runtime/objc-references.mm"; sourceTree = "<group>"; };
 		393CEAC50DC69E67000B69DE /* objc-references.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "objc-references.h"; path = "runtime/objc-references.h"; sourceTree = "<group>"; };
 		39ABD71F12F0B61800D1054C /* objc-weak.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "objc-weak.h"; path = "runtime/objc-weak.h"; sourceTree = "<group>"; };
@@ -459,6 +460,7 @@
 				83C9C3381668B50E00F4E544 /* objc-msg-simulator-x86_64.s */,
 				830F2A720D737FB800392440 /* objc-msg-x86_64.s */,
 				87BB4E900EC39633005D08E1 /* objc-probes.d */,
+				1B864ABD26C0328E005EBEB6 /* objc-probes.h */,
 			);
 			name = Source;
 			sourceTree = "<group>";
